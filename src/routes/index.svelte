@@ -8,6 +8,12 @@
   import profile from '$lib/assets/profile.webp';
 </script>
 
+
+<svelte:head>
+  <title>SuperBo's CV</title>
+  <html lang="en" />
+</svelte:head>
+
 <!--
 <h1>Welcome To SuperBo's CV</h1>
 <p>Visit <span class="text-3xl">Super</span> <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>

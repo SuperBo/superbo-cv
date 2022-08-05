@@ -3,7 +3,7 @@
 
   let skills = [
     {name: 'C/C++', percent: 60},
-    {name: 'Java', percent: 80},
+    {name: 'Java', percent: 70},
     {name: 'Python', percent: 90},
     {name: 'SQL', percent: 90},
     {name: 'Scala', percent: 80},
@@ -187,6 +187,10 @@
         <p class="bg-sky-400 rounded-md py-0.5 px-3 text-white">{k}</p>
       {/each}
     </div>
+  </div>
+
+  <!-- Pakge Break for printing -->
+  <div class="print:h-20">
   </div>
 
   <div class="col-span-3">
